@@ -1,2 +1,2 @@
 # SoftUni-Fundametals
-Sample code from me :)
+***tasks of a review***
